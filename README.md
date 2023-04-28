@@ -89,7 +89,7 @@ Here are the instructions about settings up project in local environment
      python main.py  
     ```
 
-7. The project up and running  in localhost:900 port & got to localhost:9000/docs to get API Endpoint.
+7. The project up and running  in localhost:9000 port & go to localhost:9000/docs to get API Endpoint.
 <br>
 
 
