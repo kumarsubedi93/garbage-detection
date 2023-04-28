@@ -80,6 +80,11 @@ Here are the instructions about settings up project in local environment
     pip install -r requirements.txt
    ```
 
+5. Get Machine learning models by following link and place inside *ml-models/*
+    ```
+    https://www.dropbox.com/s/jxlv29rh8otxrtx/garbage_model_weights.h5?dl=0
+    ```
+
 <br>
 
 
