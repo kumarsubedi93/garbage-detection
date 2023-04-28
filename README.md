@@ -84,7 +84,12 @@ Here are the instructions about settings up project in local environment
     ```
     https://www.dropbox.com/s/jxlv29rh8otxrtx/garbage_model_weights.h5?dl=0
     ```
+6.  Run project by using below command
+    ```
+     python main.py  
+    ```
 
+7. The project up and running  in localhost:900 port & got to localhost:9000/docs to get API Endpoint.
 <br>
 
 
